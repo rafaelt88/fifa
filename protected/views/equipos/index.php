@@ -1,0 +1,1 @@
+<img src="<?php echo Yii::app()->theme->baseUrl;?>/img/equipos.jpg" class="img-rounded" style="width: 100%"/>
